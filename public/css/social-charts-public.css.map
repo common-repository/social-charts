@@ -1,0 +1,1 @@
+{"version":3,"sources":["social-charts-public.scss"],"names":[],"mappings":"AAAA,qBACE,qBAAsB,CACtB,sBAAuB","file":"social-charts-public.css","sourcesContent":["canvas.social-charts {\n  width: 100% !important;\n  height: auto !important;\n}"]}

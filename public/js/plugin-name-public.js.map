@@ -1,0 +1,1 @@
+{"version":3,"sources":["plugin-name-public.js"],"names":["x","g"],"mappings":"aAAA,IAAMA,EAAI,EAGHC,EAAP","file":"plugin-name-public.js","sourcesContent":["const x = 2;\n\n\nconst g = 5;"]}

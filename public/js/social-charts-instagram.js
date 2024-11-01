@@ -1,0 +1,2 @@
+"use strict";!function(){var t=document.getElementById("socialChartInstagram").getContext("2d");new Chart(t,{type:"line",data:{datasets:[{label:sc_chart_data.username+" - Instagram Follower Count",backgroundColor:"rgb(255, 99, 132)",borderColor:"rgb(255, 99, 132)",data:sc_chart_data.data,fill:!1}]},options:{scales:{xAxes:[{type:"time",time:{source:"data",parser:"YYYY-MM-DD",bounds:"ticks"}}],yAxes:[{ticks:{callback:function(t){return parseInt(t)}}}]}}})}();
+//# sourceMappingURL=social-charts-instagram.js.map
